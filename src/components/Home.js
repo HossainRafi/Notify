@@ -7,7 +7,7 @@ const Home = () => {
       <h3>Friends Birthday</h3>
       <Link to="/frnddetails">Friends Details</Link>
       <br />
-      <Link to="/frndirthday">Todays Birthday</Link>
+      <Link to="/frndbirthday">Todays Birthday</Link>
     </div>
   );
 };

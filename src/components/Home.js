@@ -6,7 +6,6 @@ const Home = () => {
     <div className="container" style={{ textAlign: "center" }}>
       <h3>Friends Birthday</h3>
       <Link to="/frnddetails">Friends Details</Link>
-      <br />
       <Link to="/frndbirthday">Todays Birthday</Link>
     </div>
   );

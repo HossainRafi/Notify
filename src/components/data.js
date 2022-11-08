@@ -4,7 +4,6 @@ const data = [
     name: "Babar Azam",
     dob: "15 October",
     age: 28,
-    gender: "Male",
     image: "https://i.ibb.co/gTQMvGx/babar-azam.jpg",
   },
   {
@@ -12,7 +11,6 @@ const data = [
     name: "Taskin Ahmed",
     dob: "03 April",
     age: 27,
-    gender: "Male",
     image: "https://i.ibb.co/By6wCZN/taskin.jpg",
   },
   {
@@ -20,7 +18,6 @@ const data = [
     name: "Sania Mirza",
     dob: "15 November",
     age: 35,
-    gender: "Female",
     image: "https://i.ibb.co/QmTZhxk/sania.jpg",
   },
   {
@@ -28,7 +25,6 @@ const data = [
     name: "Shahid Afridi",
     dob: "01 March",
     age: 42,
-    gender: "Male",
     image: "https://i.ibb.co/0m7XwVX/shahid-afridi.jpg",
   },
   {
@@ -36,7 +32,6 @@ const data = [
     name: "Maria Sharapova",
     dob: "19 April",
     age: 35,
-    gender: "Female",
     image: "https://i.ibb.co/tBVf35T/sharapova.jpg",
   },
   {
@@ -44,7 +39,6 @@ const data = [
     name: "Christiano Ronaldo",
     dob: "05 February",
     age: 37,
-    gender: "Male",
     image: "https://i.ibb.co/Rbwm2FH/ronaldo.jpg",
   },
   {
@@ -52,7 +46,6 @@ const data = [
     name: "Tamim Iqbal",
     dob: "20 March",
     age: 33,
-    gender: "Male",
     image: "https://i.ibb.co/HYh2VKc/tamim.jpg",
   },
   {
@@ -60,7 +53,6 @@ const data = [
     name: "Katherine Langford",
     dob: "29 April",
     age: 26,
-    gender: "Female",
     image: "https://i.ibb.co/Y37zHkd/katherine-langford.jpg",
   },
   {
@@ -68,7 +60,6 @@ const data = [
     name: "Litton Das",
     dob: "13 October",
     age: 28,
-    gender: "Male",
     image: "https://i.ibb.co/rvm7vxL/liton.jpg",
   },
   {
@@ -76,7 +67,6 @@ const data = [
     name: "Alexandra Daddario",
     dob: "16 March",
     age: 36,
-    gender: "female",
     image: "https://i.ibb.co/bgyVXfz/alexandra-daddario.jpg",
   },
   {
@@ -84,7 +74,6 @@ const data = [
     name: "Neymar Junior",
     dob: "05 February",
     age: 30,
-    gender: "Male",
     image: "https://i.ibb.co/r5FDcvY/neymar.jpg",
   },
   {
@@ -92,7 +81,6 @@ const data = [
     name: "Leonel Messi",
     dob: "24 June",
     age: 35,
-    gender: "Male",
     image: "https://i.ibb.co/02rkwVr/messi.jpg",
   },
   {
@@ -100,7 +88,6 @@ const data = [
     name: "Mashrafe Mortaza",
     dob: "05 October",
     age: 39,
-    gender: "Male",
     image: "https://i.ibb.co/smCwgSx/mashrafee.jpg",
   },
   {
@@ -108,7 +95,6 @@ const data = [
     name: "Usain Bolt",
     dob: "21 August",
     age: 36,
-    gender: "Male",
     image: "https://i.ibb.co/55WVK7f/usain.jpg",
   },
   {
@@ -116,7 +102,6 @@ const data = [
     name: "Roger Federar",
     dob: "08 August",
     age: 41,
-    gender: "Male",
     image: "https://i.ibb.co/K6wbYbZ/roger-federar.jpg",
   },
 ];

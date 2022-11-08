@@ -7,12 +7,15 @@ import Error from "./components/Error";
 
 const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/frnddetails" element={<FrndDetails />} />
-      <Route path="/frndbirthday" element={<FrndBirthday />} />
-      <Route path="*" element={<Error />} />
-    </Routes>
+    <div>
+      <h3>sdhfhdfsdhfsdhfskdjfskdjf</h3>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/frnddetails" element={<FrndDetails />} />
+        <Route path="/frndbirthday" element={<FrndBirthday />} />
+        <Route path="*" element={<Error />} />
+      </Routes>
+    </div>
   );
 };
 

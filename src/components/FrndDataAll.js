@@ -6,7 +6,7 @@ const FrndDataAll = ({ friend }) => {
     return (
       <div key={id} className="person">
         <img src={image} alt={name} />
-        <div className="emp_details">
+        <div className="frnd_details">
           <h4>{name}</h4>
           <p>DOB: {dob}</p>
         </div>

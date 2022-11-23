@@ -8,7 +8,7 @@ const FrndDataAll = ({ friend }) => {
         <img src={image} alt={name} />
         <div className="frnd_details">
           <h4>{name}</h4>
-          <p>DOB: {dob}</p>
+          <p>Date of Birth: {dob}</p>
         </div>
       </div>
     );
